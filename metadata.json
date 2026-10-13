@@ -1,0 +1,6 @@
+{
+  "name": "Tabel Periodik Interaktif SMA",
+  "description": "Aplikasi Tabel Periodik Unsur Kimia interaktif SMA lengkap dengan model atom Bohr, konfigurasi elektron, simulator ikatan kimia, kalkulator stoikiometri, integrasi PubChem, dan Latihan Soal TKA (standar Kemendikdasmen). Dibina oleh YULIANTO HARSONO (Pengawas SMA Cabdin X).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
